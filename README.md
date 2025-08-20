@@ -9,7 +9,7 @@
 - 💻 I build full-stack apps using Laravel & Flutter  
 - 🎮 I'm also interested in game development using Flame & SoLoud  
 - 🌱 Currently learning advanced API design and clean architecture  
-- 📫 Reach me at **much.edika@gmail.com**
+- 📫 Reach me at **yahaykemal@gmail.com**
 
 ---
 
