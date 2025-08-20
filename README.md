@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kemal Yahya</h1>
-<p align="center">🚀 A passionate full-stack & mobile developer from Indonesia</p>
+<p align="center">🚀 A passionate Frontend Developer  from Indonesia</p>
 
 ---
 
